@@ -25,5 +25,24 @@
       "assets/scammers/scammer-001/evidence/Screenshot_20260729-074352.jpg",
       "assets/scammers/scammer-001/profile.jpg"
     ]
+  },
+  {
+    "id": "scammer-002",
+    "name": "Scammer Name",
+    "username": "@username",
+    "platform": "Platform",
+    "description": "Add a short description of the report.",
+    "profile": "assets/scammers/scammer-002/profile.jpg",
+    "evidence": [
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786342652371.jpg",
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786342654896.jpg",
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786343042301.jpg"
+    ],
+    "images": [
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786342652371.jpg",
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786342654896.jpg",
+      "assets/scammers/scammer-002/evidence/FB_IMG_1786343042301.jpg",
+      "assets/scammers/scammer-002/profile.jpg"
+    ]
   }
 ]
