@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "scammer-001",
+    "name": "Scammer Name",
+    "username": "@username",
+    "platform": "Platform",
+    "description": "Add a short description of the report.",
+    "profile": "scammer-001/Anish Stha 500 scammer.jpg",
+    "evidence": [],
+    "images": [
+      "scammer-001/Anish Stha 500 scammer.jpg"
+    ]
+  }
+]
