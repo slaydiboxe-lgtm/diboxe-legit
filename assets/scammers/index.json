@@ -6,8 +6,11 @@
     "platform": "Platform",
     "description": "kta kti ko esewa verify gardinxu vner 500 scam haner farar kto.",
     "profile": "scammer-001/profile.jpg",
-    "evidence": [],
+    "evidence": [
+      "scammer-001/evidence/profile.jpg"
+    ],
     "images": [
+      "scammer-001/evidence/profile.jpg",
       "scammer-001/profile.jpg"
     ]
   }
