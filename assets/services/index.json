@@ -1,0 +1,14 @@
+[
+  {
+    "id": "product-001",
+    "name": "Your Product Name",
+    "price": "25",
+    "currency": "€",
+    "description": "Your product description here.",
+    "category": "Digital",
+    "badge": "NEW",
+    "available": true,
+    "image": "assets/services/product-001/product.jpg",
+    "order_message": "Hello DIBOXE LEGIT, I want to order Your Product Name."
+  }
+]
